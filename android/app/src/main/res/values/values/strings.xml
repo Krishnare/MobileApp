@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Camera API 2</string>
+    <string name="take_picture">Take picture</string>
+    <string name="title_activity_android_camera_api">AndroidCameraApi</string>
+</resources>
